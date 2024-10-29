@@ -14,6 +14,6 @@ int main()
 	}
 	cout << endl;
 	int result = sumFunc(array, SIZE);
-	cout << result;
+	cout << result << endl;
 	return 0;
 }
